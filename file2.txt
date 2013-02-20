@@ -1,6 +1,0 @@
-
-
-This is file2 .txt
-datafiles
-file1.txt
-file2.txt
